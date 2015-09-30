@@ -16,9 +16,12 @@
 
 .intro {
     background-color: rgba(0,0,0,0.6);
+    text-align: justify;
+    font-size: 115%;
     color: #fff;
 }
 
-.logo {
-    text-align: right;
+.car {
+    min-height: 600px;
+    text-align: justify;
 }
