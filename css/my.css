@@ -1,0 +1,24 @@
+.cap {
+    position: relative;
+    background-image: url(../images/miniBooklet.jpg);
+    background-position: left center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 500px;
+}
+
+.header {
+    position: absolute;
+    left: 20px;
+    bottom: 50px;
+    width: 100%;
+}
+
+.intro {
+    background-color: rgba(0,0,0,0.6);
+    color: #fff;
+}
+
+.logo {
+    text-align: right;
+}
